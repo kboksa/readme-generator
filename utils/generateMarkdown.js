@@ -1,7 +1,7 @@
 // TODO: Create a function that returns a license badge based on which license is passed in
 // If there is no license, return an empty string
 function renderLicenseBadge(license) {
-  if (liscense !== "No license") {
+  if (license !== "No license") {
     switch (license) {
       case "Apache 2.0":
         licenseBadge = `[![License](https://img.shields.io/badge/License-Apache%202.0-yellowgreen.svg)]`;
@@ -21,7 +21,7 @@ function renderLicenseBadge(license) {
       default:
         break;
     }
-    return liscenseBadge;
+    return licenseBadge;
   } else {
     return "";
   }
