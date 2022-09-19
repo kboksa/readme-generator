@@ -86,10 +86,24 @@ const questions = [
 ];
 
 // TODO: Create a function to write README file
-function writeToFile(fileName, data) {}
+function writeToFile(fileName, data) {
+  fs.writeFile(fileName, data, (err) =>
+    err
+      ? console.error(err)
+      : console.log(
+          "WooHoo! Your README.md file has been generated in the sample folder. "
+        )
+  );
+}
 
 // TODO: Create a function to initialize app
-function init() {}
+function init() {
+  inquirer.prompt(questions).then((answers) => {
+    const readmePageContent = generatePage(answers);
+
+    writeToFile("./sample/generatedREADME.md", readmePageContent);
+  });
+}
 
 // Function call to initialize app
 init();
