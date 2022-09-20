@@ -1,8 +1,8 @@
-# hi
+# Food
     
-  [![License](https://img.shields.io/badge/License-Apache%202.0-yellowgreen.svg)](https://opensource.org/licenses/Apache-2.0)
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ## Description 📝 
-  iuh
+  this project is about different dishes around the world
 ## Table of Contents
   - [Description 📝](#description-)
   - [Installation 🗳](#installation-)
@@ -12,19 +12,19 @@
   - [Test 🧩](#test-)
   - [Questions ❓](#questions-)
 ## Installation 🗳 
-  hu
+  for traveler to discover different meals
 ## Usage 💻 
   undefined
 ## License 🚀
   
-    The application is covered under the following license: [![License](https://img.shields.io/badge/License-Apache%202.0-yellowgreen.svg)](https://opensource.org/licenses/Apache-2.0)
+    The application is covered under the following license: [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
       
 ## Contribution 👩🏻‍💻 
-  df
+  if you would like to contribute to this project please reach out to me by email
 ## Test 🧩
-  g
+  test this app on phones
 ## Questions ❓
-📩 If you have any question, email me here at : dfg<br/>
-:octocat: My Github page is [dfg](https://github.com/dfg)
+📩 If you have any question, email me here at : kalina.boksa@gmail.com<br/>
+:octocat: My Github page is [kboksa](https://github.com/kboksa)
 
 
